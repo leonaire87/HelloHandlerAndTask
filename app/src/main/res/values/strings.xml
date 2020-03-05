@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloHandlerAndTask</string>
+    <string name="str_btn_start">Start</string>
+    <string name="str_btn_start_task">Start Task</string>
+</resources>
